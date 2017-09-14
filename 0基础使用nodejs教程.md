@@ -7,4 +7,4 @@
 #### 1. 使用nvm管理你的nodejs
 
 我在这里使用nvm来管理nodejs的版本,nvm非常好用,命令也非常简单
-![image](./img/nodejs/nvm001.png)
+![image](./img/nodejs/nvm01.png)
