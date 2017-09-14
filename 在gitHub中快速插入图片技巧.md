@@ -8,12 +8,15 @@
 例如: 
 当你push本地 mygitHub/img/cs.jpg 到GitHub仓库中时
 GitHub会按照如下规则生产路径
-```JavaScript https://github.com/你的名字/你的仓库/raw/master/你的图片文件夹/图片名.jpg
+```JavaScript
+https://github.com/你的名字/你的仓库/raw/master/你的图片文件夹/图片名.jpg
 ```
 好了记住这个模板,好了其实你不用记,如果你知道相对路径就好办了 GitHub其实是支持相对路径的
 例如在本地文件如下
 
-而你的 文件.md 是在图片文件夹外面的 就可以使用```JavaScript ![](./img/我的图片.jpg) ```这样就行了,不用记上面一长串.
+而你的 文件.md 是在图片文件夹外面的 就可以使用```JavaScript
+![](./img/我的图片.jpg)
+```这样就行了,不用记上面一长串.
 
 而这个步骤就变成了
 1. 在本地存放图片
