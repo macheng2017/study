@@ -23,3 +23,11 @@ GitHub会按照如下规则生产路径
 1. 我认为这么牛逼的GitHub应该有快捷键之类的,结果没找到
 2. 搜索到别人的教程,都是粘贴url,应该也支持相对路径(提出假设),然后(验证)真的支持
 
+
+```JavaScript
+![image](./img/nodejs/nvm01.png)
+
+https://github.com/macheng2017/study/raw/master/img/nodejs/nvm01.png
+https://github.com/macheng2017/study/blob/master/img/nodejs/nvm01.jpg?raw=true
+```
+
