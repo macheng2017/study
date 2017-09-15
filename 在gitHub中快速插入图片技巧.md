@@ -1,5 +1,5 @@
-##其实这个技巧很简单,但是可以帮你至少节省半分钟时间
-因为突然发现markdown中插入图片很困难,需要
+## 其实这个技巧很简单,但是可以帮你至少节省半分钟时间
+因为突然发现markdown中插入图片很困难,需要从
 1. 上传(push)图片到文件夹中
 2. 获取图片路径
 3. 粘贴到文档中
@@ -8,7 +8,8 @@
 例如: 
 当你push本地 mygitHub/img/cs.jpg 到GitHub仓库中时
 GitHub会按照如下规则生产路径
-```JavaScript https://github.com/你的名字/你的仓库/raw/master/你的图片文件夹/图片名.jpg
+```JavaScript
+https://github.com/你的名字/你的仓库/raw/master/你的图片文件夹/图片名.jpg
 ```
 记住这个模板,好了我承认其实你不用记,如果你知道相对路径就好办了 GitHub其实是支持相对路径的
 例如在本地文件如下
