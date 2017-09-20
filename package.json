@@ -1,12 +1,6 @@
 {
-	// "name": "useJSONFile",
-	// "dependencies": {
-	// 	"jsonfile": "4.0.0"
-	// }
- "name": "jsonfile",
- "description": "Easily read/write JSON files.",
- "repository": {
-  "name": "jsonfile",
-  "version": "4.0.0"
- }
+	"name": "useJSONFile",
+	"dependencies": {
+		"jsonfile": "4.0.0"
+	}
 }
